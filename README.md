@@ -4,5 +4,6 @@ Reconstructed Google's homepage and rebuilt it using HTML and CSS. Built for app
 From [The Odin Project](https://www.theodinproject.com/courses/foundations/lessons/html-css) curriculum
 
 ## Live Demo
-Preview: 
+Preview: https://crissycodesstuff.github.io/google-hompage/
+
 
